@@ -4,8 +4,10 @@
   <h2 align="center"> I'm still a student, but day by day I learn more. I hope I can help you, sharing some codes for simple tasks
 </div> 
 ---
+
+  
 ### Aboute me:
-- find me and contact me in depamffe@gmail.com
+- 📫 How to reach me: depamffe@gmail.com
     
 <!--
 **ElmerFlores8/ElmerFlores8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
