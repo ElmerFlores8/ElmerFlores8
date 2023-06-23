@@ -7,10 +7,15 @@
 ---
 
 </a>
+<div id="badges" align="center">
   <a href="[https://www.linkedin.com/in/elmer-matias-flores-mallma-862542280/]" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue" alt="Linkedin Badge"/>
 </a>
-  
+  </a>
+</div>
+
+---
+
 ### Aboute me:
 - 📫 How to reach me: depamffe@gmail.com
 
