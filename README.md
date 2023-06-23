@@ -6,9 +6,15 @@
     
 ---
 
+</a>
+  <a href="[https://www.linkedin.com/in/elmer-matias-flores-mallma-862542280/]" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue" alt="Linkedin Badge"/>
+</a>
   
 ### Aboute me:
 - 📫 How to reach me: depamffe@gmail.com
+
+  
     
 <!--
 **ElmerFlores8/ElmerFlores8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
